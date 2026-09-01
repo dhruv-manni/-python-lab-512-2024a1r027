@@ -1,0 +1,1 @@
+#write a python program to replace double spaces from problem 3 with single s
